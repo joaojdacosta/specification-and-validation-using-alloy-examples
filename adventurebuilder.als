@@ -1,4 +1,3 @@
-//ES 2018-2019 1st Project - Group 5
 open util/ordering[Time] 
 open util/integer
 open util/ordering[Date]
